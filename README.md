@@ -1,6 +1,7 @@
 NinjaLantern
 ==========
 ![image](https://raw.github.com/hisashin/NinjaLantern/master/logo.png)
+![image](https://raw.github.com/hisashin/NinjaLantern/master/photo.jpg)
 
 Open Source(GPL) Transilluminator to view DNA or RNA
 
